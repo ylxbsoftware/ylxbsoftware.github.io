@@ -18,8 +18,8 @@ defaults:
 
 projects:
   sort_by: pushed
-  # sort_by options:
-  #   - pushed
+  sort_by options:
+    - pushed
   #   - stars
   limit: 18
   exclude:
@@ -93,3 +93,12 @@ topics:
   - name: PWA
     web_url: https://github.com/topics/pwa
     image_url: https://raw.githubusercontent.com/github/explore/698c66928eddcc6ad969b94912d7727c10229593/topics/pwa/pwa.png
+
+  - name: Electron
+    web_url: https://github.com/topics/electron
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png
+
+  - name: Chrome extension
+    web_url: https://github.com/topics/chrome-extension
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome-extension/chrome-extension.png
+   
